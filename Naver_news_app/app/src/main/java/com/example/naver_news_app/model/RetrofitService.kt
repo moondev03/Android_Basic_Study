@@ -1,4 +1,4 @@
-package com.example.naver_news_app
+package com.example.naver_news_app.model
 
 import retrofit2.Call
 import retrofit2.http.GET

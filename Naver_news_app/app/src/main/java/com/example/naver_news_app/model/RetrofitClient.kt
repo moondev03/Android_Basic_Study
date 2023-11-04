@@ -1,4 +1,4 @@
-package com.example.naver_news_app
+package com.example.naver_news_app.model
 
 import com.google.gson.GsonBuilder
 import retrofit2.Retrofit
