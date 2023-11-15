@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!-- 카카오 로그인 버튼 -->
+    <Button
+        android:id="@+id/btn_kakao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kakao Login"
+        android:textSize="30sp"/>
+
+    <!-- 다른 레이아웃 요소나 설명을 추가할 수 있습니다. -->
+
+</LinearLayout>
